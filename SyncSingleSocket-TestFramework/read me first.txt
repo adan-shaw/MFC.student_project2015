@@ -1,0 +1,3 @@
+this program no more special,
+you need to open it with the vs2010,
+this program easy than 'SyncMultiSocket-TestFramework'
